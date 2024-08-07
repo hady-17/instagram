@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.9280c456.css",
-    "main.js": "/repository-name/static/js/main.eaee1b82.js",
-    "static/js/453.950d7f7e.chunk.js": "/repository-name/static/js/453.950d7f7e.chunk.js",
-    "index.html": "/repository-name/index.html",
-    "main.9280c456.css.map": "/repository-name/static/css/main.9280c456.css.map",
-    "main.eaee1b82.js.map": "/repository-name/static/js/main.eaee1b82.js.map",
-    "453.950d7f7e.chunk.js.map": "/repository-name/static/js/453.950d7f7e.chunk.js.map"
+    "main.css": "/instagram/static/css/main.9280c456.css",
+    "main.js": "/instagram/static/js/main.b01e891e.js",
+    "static/js/453.950d7f7e.chunk.js": "/instagram/static/js/453.950d7f7e.chunk.js",
+    "index.html": "/instagram/index.html",
+    "main.9280c456.css.map": "/instagram/static/css/main.9280c456.css.map",
+    "main.b01e891e.js.map": "/instagram/static/js/main.b01e891e.js.map",
+    "453.950d7f7e.chunk.js.map": "/instagram/static/js/453.950d7f7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9280c456.css",
-    "static/js/main.eaee1b82.js"
+    "static/js/main.b01e891e.js"
   ]
 }
