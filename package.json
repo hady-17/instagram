@@ -2,7 +2,7 @@
   "name": "cloner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/repository-name",
+  "homepage": "https://hady-17.github.io/instagram/",
   "proxy": "http://localhost:3001",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
